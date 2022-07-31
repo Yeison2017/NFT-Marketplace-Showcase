@@ -22,7 +22,7 @@ function SectionWrapper({ title, description, showBtn, mockupImg, banner, revers
             ${styles.descriptionText}`}>{description}</p>
 
           {showBtn && (
-            <Button assetUrl={assets.expo} link="deployed nft marketplace rn" />
+            <Button assetUrl={assets.expo} link="exp://exp.host/@yeisonhernandez/NFT-Marketplace?release-channel=default" />
           )}
         </div>
         <div className={`flex-1 ${styles.flexCenter} p-8 sm:px-0`}>
