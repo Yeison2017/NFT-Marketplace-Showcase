@@ -1,70 +1,41 @@
-# Getting Started with Create React App
+# NFT-Marketplace-Showcase
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+La landing page de la aplicación móvil NFT-Marketplace es una página web creada con React y JavaScript. Es una página responsiva y fluida de una sola página dedicada a la promoción de la aplicación móvil NFT-Marketplace. La página está en inglés y muestra todos los detalles sobre la aplicación, incluyendo un enlace para descargarla.
 
-## Available Scripts
+## Tecnologías principales
 
-In the project directory, you can run:
+Las principales tecnologías utilizadas en esta landing page son:
 
-### `npm start`
+![icono de React Native](https://res.cloudinary.com/dyvccdkkl/image/upload/v1675896866/Iconos/React_yhyy73.png) React Native 
+![icono de JavaScript](https://res.cloudinary.com/dyvccdkkl/image/upload/v1676090888/Iconos/JavaScript_gvi1sz.png) JavaScript  
+![icono de Tailwind](https://res.cloudinary.com/dyvccdkkl/image/upload/v1675900964/Iconos/Tailwind_ulewag.png) Tailwind  
+![icono de Netlify](https://res.cloudinary.com/dyvccdkkl/image/upload/v1676957754/Iconos/Netlify_yxm0xq.png) Netlify  
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Capturas de pantalla
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+A continuación, se presentan las capturas de pantalla de la landing page en desktop y móvil.
+#### Desktop
 
-### `npm test`
+![desktop1](./src/assets/screenshots/Desktop1.jpg)
+![desktop2](./src/assets/screenshots/Desktop2.jpg)
+![desktop3](./src/assets/screenshots/Desktop3.jpg)
+![desktop4](./src/assets/screenshots/Desktop4.jpg)
+![desktop5](./src/assets/screenshots/Desktop5.jpg)
+![desktop6](./src/assets/screenshots/Desktop6.jpg)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+#### Móvil
 
-### `npm run build`
+![mobile1](./src/assets/screenshots/Mobile1.jpg)
+![mobile2](./src/assets/screenshots/Mobile2.jpg)
+![mobile3](./src/assets/screenshots/Mobile3.jpg)
+![mobile4](./src/assets/screenshots/Mobile4.jpg)
+![mobile5](./src/assets/screenshots/Mobile5.jpg)
+![mobile6](./src/assets/screenshots/Mobile6.jpg)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Créditos
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+El proyecto fue creado a partir de un video tutorial de YouTube del canal "JavaScript Mastery". El video utilizado como referencia para crear esta landing page es [Build and Deploy Your First Modern React Native App](https://www.youtube.com/watch?v=_ivIUCSOZ78) por JavaScript Mastery.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Link
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Para ver la landing page en línea, visite [https://landing-page-react.netlify.app/](https://landing-page-react.netlify.app/)
