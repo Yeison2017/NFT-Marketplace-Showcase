@@ -25,12 +25,12 @@ A continuación, se presentan las capturas de pantalla de la landing page en des
 
 #### Móvil
 
-![mobile1](./src/assets/screenshots/Mobile1.jpg)
-![mobile2](./src/assets/screenshots/Mobile2.jpg)
-![mobile3](./src/assets/screenshots/Mobile3.jpg)
-![mobile4](./src/assets/screenshots/Mobile4.jpg)
-![mobile5](./src/assets/screenshots/Mobile5.jpg)
-![mobile6](./src/assets/screenshots/Mobile6.jpg)
+![mobile1](./src/assets/screenshots/Mobile1.png)
+![mobile2](./src/assets/screenshots/Mobile2.png)
+![mobile3](./src/assets/screenshots/Mobile3.png)
+![mobile4](./src/assets/screenshots/Mobile4.png)
+![mobile5](./src/assets/screenshots/Mobile5.png)
+![mobile6](./src/assets/screenshots/Mobile6.png)
 
 ## Créditos
 
