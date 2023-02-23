@@ -38,4 +38,4 @@ El proyecto fue creado a partir de un video tutorial de YouTube del canal "JavaS
 
 ## Link
 
-Para ver la landing page en línea, visite [https://landing-page-react.netlify.app/](https://landing-page-react.netlify.app/)
+Puedes ver la página web en funcionamiento en el siguiente enlace: [URL del sitio.](https://nft-marketplace-showcase-yha.netlify.app/)
