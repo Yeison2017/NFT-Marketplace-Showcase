@@ -6,7 +6,7 @@ La landing page de la aplicación móvil NFT-Marketplace es una página web crea
 
 Las principales tecnologías utilizadas en esta landing page son:
 
-![icono de React Native](https://res.cloudinary.com/dyvccdkkl/image/upload/v1675896866/Iconos/React_yhyy73.png) React Native 
+![icono de React Native](https://res.cloudinary.com/dyvccdkkl/image/upload/v1675896866/Iconos/React_yhyy73.png) React Native  
 ![icono de JavaScript](https://res.cloudinary.com/dyvccdkkl/image/upload/v1676090888/Iconos/JavaScript_gvi1sz.png) JavaScript  
 ![icono de Tailwind](https://res.cloudinary.com/dyvccdkkl/image/upload/v1675900964/Iconos/Tailwind_ulewag.png) Tailwind  
 ![icono de Netlify](https://res.cloudinary.com/dyvccdkkl/image/upload/v1676957754/Iconos/Netlify_yxm0xq.png) Netlify  
